@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=stangeor)
+
+
 # Text-Data-Analytics-YouTube-case
 Comments, sentiment, keywords, engagement drivers.
 Sentiment Analysis - Shows text processing, polarity, interpretation.

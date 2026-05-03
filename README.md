@@ -113,11 +113,3 @@ pip install tensorflow keras numpy pandas matplotlib seaborn scikit-learn gdown
 | gdown | Google Drive dataset download |
 
 **Python version:** 3.10+ recommended
-
----
-
-## Reference
-
-> J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. *The German Traffic Sign Recognition Benchmark: A multi-class classification competition.* IEEE IJCNN, 2011, pp. 1453–1460.
-
-> LeCun, Y. et al. *Gradient-based learning applied to document recognition.* Proceedings of the IEEE, 1998.

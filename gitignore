@@ -1,0 +1,51 @@
+# Dataset - stored on Google Drive (too large for GitHub)
+traffic-signs-data/
+*.p
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model checkpoints & saved models
+*.h5
+*.keras
+*.pb
+saved_model/
+checkpoints/
+
+# Logs
+logs/
+*.log
+runs/
+
+# Misc
+*.zip
+*.tar.gz
